@@ -12,7 +12,7 @@ from flask_appbuilder.actions import action
 import pyautogui as pg
 import webbrowser as web
 import time
-
+#funciones
 def camiones_query():
     return db.session.query(Camiones)
 
