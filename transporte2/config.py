@@ -77,6 +77,7 @@ LANGUAGES = {
     "zh": {"flag": "cn", "name": "Chinese"},
     "ru": {"flag": "ru", "name": "Russian"},
     "pl": {"flag": "pl", "name": "Polish"},
+    "ar": {"flag": "ar", "name": "Argentina"},
 }
 # ---------------------------------------------------
 # Image and file configuration
